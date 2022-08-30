@@ -7,6 +7,6 @@ public class AmazonPage {
     // html for search
 
     // html for deals page
-    
+    // html for cart
     // team members
 }
