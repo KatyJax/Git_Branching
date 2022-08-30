@@ -1,6 +1,10 @@
 package locators;
 
-public class AmazonPage {.,
+public class AmazonPage {
 
-    //
+    //html for menu button
+
+    // html for search
+
+    // html for deals page
 }
